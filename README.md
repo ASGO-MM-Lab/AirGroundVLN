@@ -19,10 +19,10 @@
 </p>
 
 <!-- Replace the placeholder links below when the public resources are available. -->
-[![arXiv](https://img.shields.io/badge/arXiv-2610.10421-b31b1b.svg)](https://arxiv.org/abs/2610.10421)
-[![Website](https://img.shields.io/badge/🌐-Website-green)](https://peakpang.github.io/AirGroundVLN-Project/)
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/XvuNdebI-iA)
-[![Data](https://img.shields.io/badge/💾-Data-orange)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.10421-146DC2.svg)](https://arxiv.org/abs/2610.10421)
+[![Project Page](assets/project-page-badge-blue.svg)](https://peakpang.github.io/AirGroundVLN-Project/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-146DC2?logo=youtube&logoColor=white)](https://youtu.be/XvuNdebI-iA)
+[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Data-146DC2?logo=huggingface&logoColor=FFD21E)](https://huggingface.co/datasets/Pppang/AirGroundVLN)
 
 </div>
 
@@ -36,7 +36,12 @@
 
 ## 📢 News
 
-<!-- Add project updates here. -->
+- [2026.10.08] 🎉 Our [paper](https://arxiv.org/abs/2610.10421), [project website](https://peakpang.github.io/AirGroundVLN-Project/), and [demo video](https://youtu.be/XvuNdebI-iA) are now available!
+
+## 📋 ToDo
+
+- [ ] Release the dataset
+- [ ] Release the code
 
 ## 📜 Citing
 
