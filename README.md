@@ -35,6 +35,7 @@
 
 ## 📢 News
 
+- [2026.11.25] 🎉 The AirGroundVLN dataset is now publicly available on [Hugging Face](https://huggingface.co/datasets/Pppang/AirGroundVLN)!
 - [2026.10.08] 🎉 Our [paper](https://arxiv.org/abs/2610.10421), [project website](https://peakpang.github.io/AirGroundVLN-Project/), and [demo video](https://youtu.be/XvuNdebI-iA) are now available!
 
 ## 📋 ToDo
